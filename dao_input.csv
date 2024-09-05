@@ -1,0 +1,39 @@
+﻿platform,dao_id,dao_slug,treasury,category,member_count
+Tally,2206072049871356990,optimism,2800000000,"Infrastructure, Funding",262700
+Tally,2206072050458560434,uniswap,2500000000,DeFi,45540
+Tally,2206072050315953936,arbitrum,2100000000,Infrastructure,434700
+Tally,2206072050458560426,ens,1300000000,Infrastructure,34870
+Tally,2206072050307565231,nounsdao,13300000,DAO Tool,1380
+Tally,2206072049829414624,aave,138900000,DeFi,150940
+Tally,2206072050458560433,compound,82800000,DeFi,11460
+Tally,2206072050324342616,pooltogether,1400000,DeFi,1060
+Snapshot,opcollective.eth,opcollective.eth,2800000000,"Infrastructure, Funding",202000
+Snapshot,uniswapgovernance.eth,uniswapgovernance.eth,2500000000,DeFi,124000
+Snapshot,arbitrumfoundation.eth,arbitrumfoundation.eth,2100000000,Infrastructure,314000
+Snapshot,bitdao.eth,bitdao.eth,2000000000,"Infrastructure, Investments",88000
+Snapshot,gnosis.eth,gnosis.eth,1500000000,"Infrastructure, DAO Tool",12000
+Snapshot,ens.eth,ens.eth,1300000000,Infrastructure,137000
+Snapshot,graphprotocol.eth,graphprotocol.eth,572800000,"Infrastructure, Data Analysis",11000
+Snapshot,safe.eth,safe.eth,388700000,"Infrastructure, DAO Tool",16000
+Snapshot,lido-snapshot.eth,lido-snapshot.eth,250700000,DeFi,31000
+Snapshot,dexe.network,dexe.network,208900000,DAO Tool,146
+Snapshot,polygonvalidators.eth,polygonvalidators.eth,202900000,"Infrastructure, Funding",2200
+Snapshot,dydxgov.eth,dydxgov.eth,201700000,DeFi,24000
+Snapshot,stgdao.eth,stgdao.eth,183500000,"Infrastructure, DeFi",918000
+Snapshot,g-dao.eth,g-dao.eth,160000000,DAO Tool,65000
+Snapshot,yieldguild.eth,yieldguild.eth,175200000,"Gaming, NFTs",223
+Snapshot,uma.eth,uma.eth,168400000,"Infrastructure, DAO Tool",120
+Snapshot,sushigov.eth,sushigov.eth,30800000,DeFi,61000
+Snapshot,snapshot.dcl.eth,snapshot.dcl.eth,93800000,"Gaming, NFTs",34000
+Snapshot,cakevote.eth,cakevote.eth,427800,DeFi,110000
+Snapshot,balancer.eth,balancer.eth,11200000,DeFi,34000
+Snapshot,apecoin.eth,apecoin.eth,5300000,Art & Culture,30000
+Snapshot,aavegotchi.eth,aavegotchi.eth,3200000,"Gaming, NFTs",86000
+Snapshot,gitcoindao.eth,gitcoindao.eth,42200000,Funding,149000
+Snapshot,metislayer2.eth,metislayer2.eth,,"Infrastructure, Funding",25000
+Snapshot,poh.eth,poh.eth,41900,"Infrastructure, DAO Tool",59000
+Snapshot,speraxdao.eth,speraxdao.eth,8900000,"Infrastructure, DeFi",26000
+Snapshot,quickvote.eth,quickvote.eth,,DeFi,25000
+Snapshot,radiantcapital.eth,radiantcapital.eth,7600000,DeFi,29000
+Snapshot,gmx.eth,gmx.eth,15400000,DeFi,76000
+Snapshot,shellprotocol.eth,shellprotocol.eth,,DeFi,40000
